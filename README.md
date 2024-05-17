@@ -1,5 +1,5 @@
 # Digitize Ecommerce Store
-Responsive Ecommerce Store - Using TailwindCSS and Alpine-JS
+Responsive Ecommerce Store - Using TailwindCSS and AlpineJS
 
 # Home Page
 ![Home-Page-Desktop](https://github.com/alirza-gz/Digitize-Ecommerce-Store/assets/64093004/be671255-e136-47ba-a077-14fe2e5829e0)
