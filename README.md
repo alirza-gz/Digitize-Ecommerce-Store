@@ -2,7 +2,8 @@
       <h1 align="center">Digitize | دیجی تایز       <img  src="https://github.com/user-attachments/assets/ac0abb1b-9a91-4d4c-ab0a-822bad6d2d86" width="100" alt="digitize shop"/></h1>
 </p>
 
-<p>Digitize is a demo online shop built with ReactJS and TailwindCSS. With Digitize, you can browse a selection of digital products including mobile phones, laptops, and smartwatches. You can filter products, sort them, search for specific items, and add them to your cart. You can also mark products as favorites. stack: React, React-Router-DOM, React-Hook-Form, Axios, Context, Reducer, Tailwindcss, Firebase, etc.</p>
+<p>Digitize is a demo online shop built with ReactJS and TailwindCSS. With Digitize, you can browse a selection of digital products including mobile phones, laptops, and smartwatches. You can filter products, sort them, search for specific items, and add them to your cart. You can also mark products as favorites.
+stack: React, React-Router-DOM, React-Hook-Form, Axios, Context, Reducer, Tailwindcss, Firebase, etc.</p>
 
  ---
 
