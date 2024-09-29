@@ -1,0 +1,7 @@
+<svg id="watch-category-icon" width="21" height="22" viewBox="0 0 21 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="11.5" cy="9.5" r="9.5" fill="#AFAFAF" fill-opacity="0.29"/>
+<path d="M5.66659 18.6668H10.3333C11.8866 18.6668 12.6666 17.8868 12.6666 16.3335V11.6668C12.6666 10.1135 11.8866 9.3335 10.3333 9.3335H5.66659C4.11325 9.3335 3.33325 10.1135 3.33325 11.6668V16.3335C3.33325 17.8868 4.11325 18.6668 5.66659 18.6668Z" stroke="#222F5D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.6666 7.3335H5.33325" stroke="#222F5D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.6666 20.6665H5.33325" stroke="#222F5D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.66675 12.3335V14.3335H9.66675" stroke="#222F5D" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

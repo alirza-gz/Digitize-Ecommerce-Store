@@ -1,0 +1,7 @@
+<svg id="laptop-category-icon" width="21" height="23" viewBox="0 0 21 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="11.5" cy="9.5" r="9.5" fill="#AFAFAF" fill-opacity="0.29"/>
+<path d="M4.29325 8.3335H11.6999C14.0733 8.3335 14.6666 8.92683 14.6666 11.2935V15.5135C14.6666 17.8868 14.0733 18.4735 11.7066 18.4735H4.29325C1.92659 18.4802 1.33325 17.8868 1.33325 15.5202V11.2935C1.33325 8.92683 1.92659 8.3335 4.29325 8.3335Z" stroke="#222F5D" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 18.48V21.6666" stroke="#222F5D" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.33325 15.6665H14.6666" stroke="#222F5D" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M5 21.6665H11" stroke="#222F5D" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

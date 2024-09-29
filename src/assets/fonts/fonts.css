@@ -1,0 +1,194 @@
+/* fonts */
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: bold;
+  src: url("/src/assets/fonts/eot/IRANYekanWebBold.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebBold.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebBold.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebBold.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebBold.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 100;
+  src: url("/src/assets/fonts/eot/IRANYekanWebThin.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebThin.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebThin.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebThin.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebThin.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/src/assets/fonts/eot/IRANYekanWebLight.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebLight.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebLight.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebLight.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebLight.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: normal;
+  src: url("/src/assets/fonts/eot/IRANYekanWebRegular.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebRegular.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebRegular.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebRegular.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebRegular.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/src/assets/fonts/eot/IRANYekanWebMedium.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebMedium.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebMedium.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebMedium.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebMedium.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/src/assets/fonts/eot/IRANYekanWebExtraBold.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebExtraBold.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebExtraBold.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebExtraBold.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebExtraBold.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 850;
+  src: url("/src/assets/fonts/eot/IRANYekanWebBlack.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebBlack.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebBlack.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebBlack.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebBlack.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 900;
+  src: url("/src/assets/fonts/eot/IRANYekanWebExtraBlack.eot");
+  src: url("/src/assets/fonts/eot/IRANYekanWebExtraBlack.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/IRANYekanWebExtraBlack.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/woff2/IRANYekanWebExtraBlack.woff2")
+      format("woff2"),
+    /* FF39+,Chrome36+, Opera24+*/ url("/src/assets/fonts/ttf/IRANYekanWebExtraBlack.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: bold;
+  src: url("/src/assets/fonts/eot/iranyekanwebboldfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanwebboldfanum.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanwebboldfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanwebboldfanum.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 100;
+  src: url("/src/assets/fonts/eot/iranyekanwebthinfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanwebthinfanum.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanwebthinfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanwebthinfanum.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 300;
+  src: url("/src/assets/fonts/eot/iranyekanweblightfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanweblightfanum.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanweblightfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanweblightfanum.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: normal;
+  src: url("/src/assets/fonts/eot/iranyekanwebregularfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanwebregularfanum.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanwebregularfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanwebregularfanum.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 500;
+  src: url("/src/assets/fonts/eot/iranyekanwebmediumfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanwebmediumfanum.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanwebmediumfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanwebmediumfanum.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 800;
+  src: url("/src/assets/fonts/eot/iranyekanwebextraboldfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanwebextraboldfanum.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanwebextraboldfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanwebextraboldfanum.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 850;
+  src: url("/src/assets/fonts/eot/iranyekanwebblackfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanwebblackfanum.eot?#iefix") format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanwebblackfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanwebblackfanum.ttf")
+      format("truetype");
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 900;
+  src: url("/src/assets/fonts/eot/iranyekanwebextrablackfanum.eot");
+  src: url("/src/assets/fonts/eot/iranyekanwebextrablackfanum.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-8 */ url("/src/assets/fonts/woff/iranyekanwebextrablackfanum.woff") format("woff"),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url("/src/assets/fonts/ttf/iranyekanwebextrablackfanum.ttf")
+      format("truetype");
+}
